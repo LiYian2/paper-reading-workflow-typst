@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Paper Reading Workflow"
+  short_description: "Rigorous AI paper notes and graph patches"
+  default_prompt: "Use $ai-paper-reading-workflow to read this AI paper, create a detailed Typst note, and prepare a knowledge-graph patch."
